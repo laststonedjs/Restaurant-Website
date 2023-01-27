@@ -21,19 +21,19 @@ const Navbar = () => {
       </div>
       <ul className="app__navbar-links">
         <IoRestaurantOutline color="#fff" fontSize={27} />
-        <li className="p__links">
+        <li className="p__opensans">
           <a href="#home">Početna</a>
         </li>
         <IoIosRestaurant color="#fff" fontSize={27} />
-        <li className="p__links">
+        <li className="p__opensans">
           <a href="#about">O Nama</a>
         </li>
         <BiRestaurant color="#fff" fontSize={27} />
-        <li className="p__links">
+        <li className="p__opensans">
           <a href="#menu">Meni</a>
         </li>
         <RiRestaurant2Line color="#fff" fontSize={27} />
-        <li className="p__links">
+        <li className="p__opensans">
           <a href="#contact">Kontakt</a>
         </li>
       </ul>
@@ -58,7 +58,7 @@ const Navbar = () => {
               onClick={() => setToogleMenu(false)}
             />
             <ul className="app__navbar-smallscreen_links">
-              <li className="p__links">
+              <li className="p__opensans">
                 <IoRestaurantOutline
                   style={{
                     color: "#dcca87",
@@ -68,21 +68,21 @@ const Navbar = () => {
                 />
                 <a href="#home">Početna</a>
               </li>
-              <li className="p__links">
+              <li className="p__opensans">
                 <IoIosRestaurant
                   style={{ color: "#dcca87", marginRight: "10px" }}
                   fontSize={28}
                 />
                 <a href="#about">O Nama</a>
               </li>
-              <li className="p__links">
+              <li className="p__opensans">
                 <BiRestaurant
                   style={{ color: "#dcca87", marginRight: "10px" }}
                   fontSize={28}
                 />
                 <a href="#menu">Meni</a>
               </li>
-              <li className="p__links">
+              <li className="p__opensans">
                 <RiRestaurant2Line
                   style={{ color: "#dcca87", marginRight: "10px" }}
                   fontSize={28}

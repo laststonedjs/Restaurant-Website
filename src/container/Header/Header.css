@@ -1,0 +1,17 @@
+.app__header {
+  /* background: linear-gradient(to bottom left, #ed3338 16%, #750a0e 88%); */
+  background: linear-gradient(to bottom left, #ed3338 0%, #bc1016 100%);
+}
+
+.app__header-h1 {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 117px;
+  font-size: 90px;
+}
+
+.app__header-img img {
+  width: 80%;
+}
