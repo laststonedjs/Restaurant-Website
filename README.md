@@ -1,7 +1,7 @@
 ## Smells of delicious and healthy food? <br /> Bite into the cutest component and see what's hidden in all those CSS styles/meals.
 <hr />
 
-                             * Let's cook some tasty functionalities and features ==> [VISIT US!] *
+                          * Let's cook some tasty functionalities and features ==> [VISIT US!] *
 
 ### If so, feel free to take a look at my dev kitchen because you will definitely find quality content and design above all else.
 
