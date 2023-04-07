@@ -2,8 +2,9 @@
 <hr />
 
 /** 
-  * Let's cook some tasty functionalities and features, visit us!
-*/
+  * Let's cook some tasty functionalities and features, visit us! 
+**/
+
 
 ### If so, feel free to take a look at my dev kitchen because you will definitely find quality content and design above all else.
 
