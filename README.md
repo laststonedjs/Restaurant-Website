@@ -1,4 +1,4 @@
-##        Smells of delicious and healthy food? <br /> Bite into the cutest component and see what's hidden in all those CSS styles/meals.
+##     __Smells of delicious and healthy food? <br /> Bite into the cutest component and see what's hidden in all those CSS styles/meals__
 <hr />
 
                       * Let's cook some tasty functionalities and features ==> [VISIT US!] *
