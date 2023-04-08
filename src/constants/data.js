@@ -17,7 +17,7 @@ const readyMeals = [
     tags: 'BIH | Porcija',
   },
   {
-    title: 'Teleća čorbica sa povrćem',
+    title: 'Teleća čorbica',
     price: '6 BAM',
     tags: 'BIH | Porcija',
   },
