@@ -1,58 +1,58 @@
 import images from './images';
 
-const wines = [
+const readyMeals = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Gulaš sa prilogom',
+    price: '8 BAM',
+    tags: 'BIH | Porcija',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Natur Šnicla u sosu',
+    price: '8 BAM',
+    tags: 'BIH | Porcija',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Ćufte u paradajz sosu',
+    price: '7 BAM',
+    tags: 'BIH | Porcija',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Teleća čorbica sa povrćem',
+    price: '6 BAM',
+    tags: 'BIH | Porcija',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Leskovačka Mućkalica',
+    price: '8 BAM',
+    tags: 'BIH | Porcija',
   },
 ];
 
-const cocktails = [
+const grillMeals = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Ćevapi',
+    price: '8 BAM',
+    tags: 'Junetina | Svinjetina | ukusno | dobro',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
+    title: "Karađorđeva šnicla",
+    price: '8 BAM',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
+    title: 'Pileći File',
+    price: '7 BAM',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
+    title: 'Bijela Vješalica',
+    price: '8 BAM',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Punjena piletina',
+    price: '9 BAM',
+    tags: 'Piletina | Sir Šunka | Salata | Hljeb',
   },
 ];
 
@@ -79,4 +79,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { readyMeals, grillMeals, awards };
