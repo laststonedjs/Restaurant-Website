@@ -34,16 +34,8 @@
   flex-direction: column;
 }
 
-/* .app__specialMenu-menu_readyMeal {
-  margin-left: 0.5rem;
-}
-
-.app__specialMenu-menu_grillMeal {
-  margin-left: 2.2rem;
-} */
-
 .app__specialMenu-menu_img {
-  width: 440px;
+  width: 410px;
   margin: 1rem 2rem 0 0;
 }
 

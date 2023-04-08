@@ -15,3 +15,7 @@
 .app__header-img img {
   width: 80%;
 }
+
+.app__wrapper_info {
+  margin-top: 2rem;
+}
