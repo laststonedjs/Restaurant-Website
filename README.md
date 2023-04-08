@@ -2,7 +2,7 @@
 ## Bite into the most delicious piece of component and find what's hidden in all thoose CSS styles/meals
 <hr />
 
-                              * Let's cook some tasty functionalities and features ==> [VISIT US!] *
+                          * Let's cook some tasty functionalities and features ==> [VISIT US!] *
 
 ### If so, feel free to take a look at my dev kitchen because you will definitely find quality content and design above all else.
 
