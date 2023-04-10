@@ -20,19 +20,34 @@ const Navbar = () => {
         <img src={images.logo} alt="logo" />
       </div>
       <ul className="app__navbar-links">
-        <IoRestaurantOutline color="#fff" fontSize={27} />
+        <IoRestaurantOutline
+          style={{ color: "var(--color-golden)" }}
+          fontSize={27}
+        />
         <li className="p__opensans">
           <a href="#home">Početna</a>
         </li>
-        <IoIosRestaurant color="#fff" fontSize={27} />
+        <IoIosRestaurant
+          color="#fff"
+          fontSize={27}
+          style={{ color: "var(--color-golden)" }}
+        />
         <li className="p__opensans">
           <a href="#about">O Nama</a>
         </li>
-        <BiRestaurant color="#fff" fontSize={27} />
+        <BiRestaurant
+          color="#fff"
+          fontSize={27}
+          style={{ color: "var(--color-golden)" }}
+        />
         <li className="p__opensans">
           <a href="#menu">Meni</a>
         </li>
-        <RiRestaurant2Line color="#fff" fontSize={27} />
+        <RiRestaurant2Line
+          color="#fff"
+          fontSize={27}
+          style={{ color: "var(--color-golden)" }}
+        />
         <li className="p__opensans">
           <a href="#contact">Kontakt</a>
         </li>

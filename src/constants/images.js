@@ -8,6 +8,7 @@ import gallery04 from '../assets/gallery04.png';
 import knife from '../assets/knife.png';
 import vegetables from '../assets/vegetables.png';
 import logo from '../assets/logo.png';
+import kuhinjica from '../assets/kuhinjica.png';
 import menu from '../assets/menu.png';
 import specialMenu from '../assets/specialMenu.jpg';
 import overlaybg from '../assets/overlaybg.png';
@@ -25,6 +26,7 @@ export default {
   bg,
   chef,
   K,
+  kuhinjica,
   gallery01,
   gallery02,
   gallery03,
