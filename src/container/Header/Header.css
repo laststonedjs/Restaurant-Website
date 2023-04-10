@@ -1,5 +1,4 @@
 .app__header {
-  /* background: linear-gradient(to bottom left, #ed3338 16%, #750a0e 88%); */
   background: linear-gradient(to bottom left, #ed3338 0%, #bc1016 100%);
 }
 
@@ -18,4 +17,33 @@
 
 .app__wrapper_info {
   margin-top: 2rem;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (min-width: 2000px) {
+}
+
+@media screen and (max-width: 1150px) {
+  .app__header-h1 {
+    font-size: 25px;
+    letter-spacing: 0.01em;
+    line-height: 35px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .app__header-h1 {
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .app__header-h1 {
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
 }

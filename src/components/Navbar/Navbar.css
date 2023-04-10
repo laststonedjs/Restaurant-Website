@@ -31,16 +31,16 @@
 .app__navbar-links li {
   margin: 0 2rem 0 0.4rem;
 
+  color: var(--color-golden);
   white-space: nowrap;
   cursor: pointer;
   font-size: 25px;
 }
 
 .app__navbar-links li:hover {
-  color: var(--color-grey);
-  font-size: 33px;
+  color: var(--color-white);
+  font-size: 30px;
   transition: 0.7s ease-in-out;
-  text-decoration: underline;
 }
 
 .app__navbar-smallscreen {
